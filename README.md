@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/card-order-summary-component-YRBmw46vt)
+- Live Site URL: [Netlify](https://alexdev-card-order-summary.netlify.app/)
 
 ## My process
 
@@ -36,11 +36,9 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@alexsans12](https://www.frontendmentor.io/profile/alexsans12)
+- Twitter - [@Alexsans__](https://www.twitter.com/Alexsans__)
