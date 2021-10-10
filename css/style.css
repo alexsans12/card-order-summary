@@ -52,6 +52,13 @@ body {
     }
 }
 
+@media screen and (min-width: 1440px) {
+    .card {
+        min-width: 450px;
+        margin: 0;
+    }
+}
+
 .card__header-banner {
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
@@ -109,6 +116,12 @@ body {
     }
 }
 
+@media screen and (min-width: 1440px) {
+    .card__btn {
+        padding: 15px 25px;
+    }
+}
+
 .card__plan-right {
     display: flex;
     align-items: center;
@@ -159,6 +172,12 @@ body {
     transition: ease 0.3s;
 }
 
+@media screen and (min-width: 1440px) {
+    .card__btn {
+        padding: 20px 0;
+    }
+}
+
 .card__btn:hover {
     cursor: pointer;
     opacity: 0.75;
@@ -170,8 +189,15 @@ body {
     font-weight: 700;
     margin: 5px 0 30px;
     transition: ease .3s;
+    font-size: 14px;
 }
 
 .card__link:hover {
     color: var(--Dark_blue);
+}
+
+@media screen and (min-width: 1440px) {
+    .card__link {
+        margin: 10px 0 40px;
+    }
 }
